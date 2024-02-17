@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ics.oop.AnimalTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-02-17T17:31:06" hostname="DESKTOP-O5NEJSM" time="0.809">
+  <properties/>
+  <testcase name="constructorTest()" classname="agh.ics.oop.AnimalTest" time="0.462"/>
+  <testcase name="moveBeyondBoundariesTest()" classname="agh.ics.oop.AnimalTest" time="0.281"/>
+  <testcase name="moveBackwardBeyondBoundariesTest()" classname="agh.ics.oop.AnimalTest" time="0.004"/>
+  <testcase name="moveForwardTest()" classname="agh.ics.oop.AnimalTest" time="0.003"/>
+  <testcase name="turnRightTest()" classname="agh.ics.oop.AnimalTest" time="0.002"/>
+  <testcase name="defaultConstructorTest()" classname="agh.ics.oop.AnimalTest" time="0.005"/>
+  <testcase name="moveBackwardTest()" classname="agh.ics.oop.AnimalTest" time="0.005"/>
+  <testcase name="turnLeftTest()" classname="agh.ics.oop.AnimalTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
